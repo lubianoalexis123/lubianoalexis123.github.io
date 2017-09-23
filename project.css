@@ -144,17 +144,12 @@ img, object, embed, video {
 	padding-right: 0.9722%;
 	margin: auto;
 }
-
 #maincontent {
 	clear: both;
 	float: left;
 	margin-left: 0;
 	width: 100%;
 	display: block;
-}
-#footertext {
-	font-family: "Arial Black", Gadget, sans-serif;
-	color: #D6D6D6;
 }
 
 #footer {
@@ -178,4 +173,9 @@ img, object, embed, video {
 	top: 0px;
 	min-width: 100%;
 	min-height: 100%;
+}
+#footertext {
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #D6D6D6;
+	font-size: 12px;
 }
