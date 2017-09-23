@@ -152,10 +152,7 @@ img, object, embed, video {
 	width: 100%;
 	display: block;
 }
-#footertext {
-	font-family: "Arial Black", Gadget, sans-serif;
-	color: #D6D6D6;
-}
+
 
 #footer {
 	clear: both;
@@ -166,10 +163,13 @@ img, object, embed, video {
 }
 }
 
+
+
 #nav {
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 50px;
 }
+
 #bgi {
 	width: 100%;
 	position: fixed;
@@ -178,4 +178,8 @@ img, object, embed, video {
 	top: 0px;
 	min-width: 100%;
 	min-height: 100%;
+}
+#footertext {
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #D6D6D6;
 }
